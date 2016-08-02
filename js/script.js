@@ -6,7 +6,8 @@ jQuery(document).ready(function($) {
 			'background-color': '#f33',
 			'border-color': "#800",
 			'box-shadow': 'inset 0 1px 0 #a88,0 1px 0 rgba(0,0,0,.08)',
-			'color': 'white'
+			'color': 'white',
+			'text-shadow': 'none'
 		};
 
 		$buttons.click(function(e) {
