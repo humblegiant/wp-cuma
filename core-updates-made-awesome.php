@@ -27,7 +27,7 @@ if (!function_exists('hmbl_load_safemaking_script') && is_admin()) {
 
 		wp_enqueue_script( 'hmbl-cuma-script' );
 
-		wp_localize_script( 'hmbl-cuma-script', 'localized_warnings', $translations );
+		wp_localize_script( 'hmbl-cuma-script', 'cumaLocalizedWarnings', $translations );
 	}
 	add_action( 'admin_enqueue_scripts', 'hmbl_load_safemaking_script', 10 );
 }
