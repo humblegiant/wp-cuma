@@ -4,7 +4,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 /*
 Plugin Name: Core Updates Made Awesome
 Plugin URI:  http://humblegiant.se/
-Description: Show some nifty warnings to the user when they're performing core updates.
+Description: Show some nifty warnings to the user when they're trying to perform WordPress core updates.
 Version:     1.0.0
 Author:      Humble Giant
 Author URI:  http://humblegiant.se/
