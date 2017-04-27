@@ -4,8 +4,8 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 /*
 Plugin Name: Core Updates Made Awesome
 Plugin URI:  http://humblegiant.se/
-Description: Prevents unwanted side effects when performing core updates.
-Version:     0.0.1
+Description: Show some nifty warnings to the user when they're performing core updates.
+Version:     1.0.0
 Author:      Humble Giant
 Author URI:  http://humblegiant.se/
 Text Domain: core-updates-made-awesome
